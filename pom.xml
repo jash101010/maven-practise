@@ -7,4 +7,12 @@
   <groupId>clinic.programmming</groupId>
   <artifactId>mvn-jash-quick-start</artifactId>
   <version>1.0</version>
-</project>
+  <dependencies>
+	  <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+	<dependency>
+    		<groupId>org.apache.commons</groupId>
+    		<artifactId>commons-lang3</artifactId>
+    		<version>3.19.0</version>
+	</dependency>
+  </dependencies>
+  </project>
